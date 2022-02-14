@@ -1,24 +1,9 @@
 
-
-
 .head-container{
   font-family: 'Montserrat', sans-serif;
   background: #fafafa;
   border-radius: 10px;
-  color: #9656FF;
   padding: 10px;
-}
-
-
-.category-title{
-  margin: 50px 0px 50px 0px;
-  background-color: #FFD3C7;
-  width: 150px;
-  color: #F9643C;
-  font-size: 20px;
-  padding: 5px;
-  border-radius: 5px;
-  font-family: 'Montserrat', sans-serif;
 }
 
 .product-img{
@@ -37,4 +22,16 @@
 
 .product-price{
   color: grey;
+    font-family: 'Inter', sans-serif;
+}
+
+.whatsapp-bg{
+  background: 	#25D366;
+  color: #ffffff;
+  padding: 3px;
+  border-radius: 3px;
+}
+
+.sold-img{
+  width: 70px;
 }
